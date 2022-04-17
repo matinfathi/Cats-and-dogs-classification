@@ -3,8 +3,8 @@ from torch_model import *
 if __name__ == '__main__':
 
     # Hyperparameters and constants
-    DATASET_PATH = '/home/matin/Workspace/Dataset/PetImages/'
-    SAVE_PATH = '/home/matin/Workspace/PyCharm/Cats_and_Dogs/C&D_weights.pth'
+    DATASET_PATH = '<PATH_TO_THE_DATASET>'
+    SAVE_PATH = '<PATH_FOR_SAVING_THE_MODEL_WEIGHTS>'
     CLASSES = {'Cat': 0, 'Dog': 1}
     BATCH_SIZE = 32
     IMAGE_SIZE = 50
