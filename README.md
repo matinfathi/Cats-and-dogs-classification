@@ -3,6 +3,8 @@ Trained a simple convolution model to classify images of dogs and cats.
 
 The model has 2 convolution layer and 2 fully connected layer and it has been trained for 50 epochs.
 
+<img src="./content/1.jpg"/>	<img src="./content/2.jpg"/>
+
 for running the program:
 1. Create an environment and install requirement ```pip install -r requirement.txt```
 2. first download data from [here](https://www.microsoft.com/en-us/download/details.aspx?id=54765)
